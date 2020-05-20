@@ -1,0 +1,10 @@
+Package: myutils
+Type: Package
+Title: Utility functions
+Version: 0.1.0
+Author: Princy Parsana
+Maintainer: Princy Parsana <princyparsana@jhu.edu>
+Description: Utility functions for regular research
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
